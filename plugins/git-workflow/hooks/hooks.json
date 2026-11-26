@@ -1,0 +1,17 @@
+{
+  "description": "Blocks git commits that stage files which look like secrets",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}/scripts/block-secrets.sh\"",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

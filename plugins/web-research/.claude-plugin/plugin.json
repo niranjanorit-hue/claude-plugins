@@ -1,0 +1,9 @@
+{
+  "name": "web-research",
+  "version": "0.1.0",
+  "description": "Example MCP-backed plugin that wires in a fetch server for reading web pages.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["mcp","web","research"]
+}

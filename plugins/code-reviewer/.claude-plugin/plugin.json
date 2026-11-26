@@ -1,0 +1,9 @@
+{
+  "name": "code-reviewer",
+  "version": "0.1.0",
+  "description": "A reviewer subagent and /review-diff command for focused code reviews.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["review","quality","git"]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "niranjan-plugins",
+  "owner": {
+    "name": "NIRANJAN",
+    "url": "https://github.com/niranjanorit-hue"
+  },
+  "metadata": {
+    "description": "A curated collection of Claude Code plugin examples: skills, slash commands, subagents, hooks and MCP servers.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "game-studio",
+      "source": "./plugins/game-studio",
+      "description": "Plan, prototype and playtest browser games in 2D and 3D.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["games", "phaser", "threejs", "playtest"]
+    },
+    {
+      "name": "build-web-apps",
+      "source": "./plugins/build-web-apps",
+      "description": "Scaffold, build and deploy web apps with a guided checklist.",
+      "version": "0.1.0",
+      "category": "development",
+      "keywords": ["web", "react", "deploy"]
+    },
+    {
+      "name": "code-reviewer",
+      "source": "./plugins/code-reviewer",
+      "description": "A reviewer subagent and /review-diff command for focused code reviews.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["review", "quality", "git"]
+    },
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "Commit message, branch and pull request helpers, plus a hook that blocks committing secrets.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["git", "commits", "pull-requests", "hooks"]
+    },
+    {
+      "name": "docs-writer",
+      "source": "./plugins/docs-writer",
+      "description": "Write READMEs, changelogs and API docs that match your codebase.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["docs", "readme", "changelog"]
+    },
+    {
+      "name": "web-research",
+      "source": "./plugins/web-research",
+      "description": "Example MCP-backed plugin that wires in a fetch server for reading web pages.",
+      "version": "0.1.0",
+      "category": "research",
+      "keywords": ["mcp", "web", "research"]
+    }
+  ]
+}

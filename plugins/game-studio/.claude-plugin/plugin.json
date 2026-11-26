@@ -1,0 +1,9 @@
+{
+  "name": "game-studio",
+  "version": "0.1.0",
+  "description": "Plan, prototype and playtest browser games in 2D and 3D.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["games","phaser","threejs","playtest"]
+}

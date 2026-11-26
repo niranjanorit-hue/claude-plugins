@@ -1,0 +1,9 @@
+{
+  "name": "git-workflow",
+  "version": "0.1.0",
+  "description": "Commit message, branch and pull request helpers, plus a hook that blocks committing secrets.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["git","commits","pull-requests","hooks"]
+}

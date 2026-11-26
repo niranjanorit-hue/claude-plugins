@@ -1,0 +1,9 @@
+{
+  "name": "build-web-apps",
+  "version": "0.1.0",
+  "description": "Scaffold, build and deploy web apps with a guided checklist.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["web","react","deploy"]
+}

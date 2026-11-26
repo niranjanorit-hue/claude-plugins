@@ -1,0 +1,9 @@
+{
+  "name": "docs-writer",
+  "version": "0.1.0",
+  "description": "Write READMEs, changelogs and API docs that match your codebase.",
+  "author": { "name": "NIRANJAN", "url": "https://github.com/niranjanorit-hue" },
+  "repository": "https://github.com/niranjanorit-hue/claude-plugins",
+  "license": "MIT",
+  "keywords": ["docs","readme","changelog"]
+}
